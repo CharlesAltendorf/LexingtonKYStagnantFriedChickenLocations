@@ -1,0 +1,5 @@
+var chicken = 
+{"type":"FeatureCollection","features":[
+    {"type":"Feature","properties":{"Name":"Popeye's 85303","Type":"Stagnant", "Address": "115 East New Circle Road", "Phone": 8593670554, "Website": "https://www.popeyes.com/store-locator/store/restaurant_85303/"},"geometry":{"type":"Point","coordinates":[-84.469495, 38.064941]}},
+    {"type":"Feature","properties":{"Name":"Lee's Lexington","Type":"Stagnant", "Address": "3014 Richmond Road", "Phone": 8593689002, "Website": "https://www.leesfamousrecipe.com/locations/kentucky/lexington/"},"geometry":{"type":"Point","coordinates":[-84.451225, 38.004807]}},  
+    ]}
